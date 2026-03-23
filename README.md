@@ -52,6 +52,16 @@ El número de comidas diarias se relaciona con si el estudiante tiene una buena 
 Finalmente, el tiempo de traslado representa un costo en términos de tiempo y energía puesto que si el trayecto de su casa a la universidad es largo, puede afectar significativamente su bienestar y rendimiento porque va a estar más cansado y va a tener menos tiempo para cumplir con sus obligaciones escolares. 
 <p>
 
+### Cómo reproducir (comandos).
+
+```
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+```
+
+
 ### Roles y estructura del repositorio.
 
 <p>
