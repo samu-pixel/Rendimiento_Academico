@@ -33,7 +33,7 @@ Por otro lado, las hipótesis individuales que deseamos probar sobre el efecto d
 
 
 ##### Variables 
-######Justificacion de variables 
+###### Justificacion de variables 
 <p>
 En primer lugar, tenemos que las horas de sueño son un factor fundamental para el adecuado funcionamiento cognitivo. Existen diversos artículos como el “Sueño y rendimiento académico en estudiantes universitarios: una revisión sistemática” que demuestran que un descanso adecuado mejora la memoria, la concentración y la capacidad de aprendizaje, lo que se refleja en un mejor rendimiento académico.
 
