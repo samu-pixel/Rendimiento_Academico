@@ -1,4 +1,4 @@
-#Rendimiento Academico
+## Rendimiento Academico
 
 ### Problema Hipótesis Variables 
 
